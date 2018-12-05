@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SpringCloudGoods.iml" filepath="$PROJECT_DIR$/SpringCloudGoods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../ideaProject/SpringCloudGoods/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/../../ideaProject/SpringCloudGoods/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../ideaProject/SpringCloudGoods/user-feign/user-feign.iml" filepath="$PROJECT_DIR$/../../ideaProject/SpringCloudGoods/user-feign/user-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../ideaProject/SpringCloudGoods/user-server/user-server.iml" filepath="$PROJECT_DIR$/../../ideaProject/SpringCloudGoods/user-server/user-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../ideaProject/SpringCloudGoods/zuul/zuul.iml" filepath="$PROJECT_DIR$/../../ideaProject/SpringCloudGoods/zuul/zuul.iml" />
+    </modules>
+  </component>
+</project>

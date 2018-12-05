@@ -1,0 +1,21 @@
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8090/eureka/
+server:
+  port: 8092
+spring:
+  application:
+    name: service-feign-user
+  mvc:
+    view:
+      prefix: /templates/
+      suffix: .ftl
+  freemarker:
+    cache: false
+    request-context-attribute: request
+    content-type: text/html; charset=utf-8
+
+feign:
+ hystrix:
+   enabled: true

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SpringCloudGoods:war">
+    <output-path>$PROJECT_DIR$/../../ideaProject/SpringCloudGoods/target</output-path>
+    <root id="archive" name="SpringCloud-Goods.war">
+      <element id="artifact" artifact-name="SpringCloudGoods:war exploded" />
+    </root>
+  </artifact>
+</component>
