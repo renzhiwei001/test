@@ -40,6 +40,8 @@ public class Usercontroller {
     @RequestMapping("/toUserPage")
     String toUserPage(){
 
+        System.out.println("1111");
+
         return "index";
     }
     @GetMapping(value = "/queryBookInfo")
